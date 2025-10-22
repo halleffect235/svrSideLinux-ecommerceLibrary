@@ -3,7 +3,8 @@
   13186 15th Street S.
   Afton, MN 55001
 
-  dev-softw@dyn-eng.com
+  softw-dev@dyn-eng.com
+  https://www.dyn-eng.com
 
   Questions are always answered...
   I hope you find usefuless in my code
